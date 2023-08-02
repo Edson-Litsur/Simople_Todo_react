@@ -1,0 +1,33 @@
+.app {
+    max-width: 600px;
+    margin: 0 auto  300px;
+    background-color: #efefef;
+    padding: 20px 30px;
+    border-radius: 10px;
+  }
+  
+  h1 {
+    text-align: center;
+  }
+  
+  h2 {
+    margin-bottom: 10px;
+  }
+  
+  p {
+    margin: 10px 0;
+  }
+  
+  input {
+    box-sizing: border-box;
+  }
+
+.complete {
+  background-color: #5cb85c;
+
+  }
+
+.remove {
+  background-color: #c01523;
+}
+  
