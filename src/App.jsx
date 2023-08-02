@@ -14,7 +14,7 @@ const App = () => {
       { id:1,
         text: "Criar funcionalidae X no sistema",
         category: "Trabalho",
-        isCompleted: false
+        isCompleted: false 
       },
 
       {id:2,
